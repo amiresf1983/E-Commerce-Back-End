@@ -71,8 +71,8 @@ in the integrated terminal in VS Code for sourcing and seeding the database. API
 
 ## Contact
 Amir Esfandiari 
-email: amir.esf1983@gmail.com
-Github: https://github.com/amiresf1983
+* [email]: amir.esf1983@gmail.com
+*[Github]: (https://github.com/amiresf1983/)
 
 
 
