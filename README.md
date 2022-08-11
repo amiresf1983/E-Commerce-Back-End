@@ -11,7 +11,7 @@ A back-end e-commerce platform that uses RESTful API calls combined with an SQL 
 * [Usage](#usage)
 * [Live Demo](#live-demo)
 * [Resources](#resources)
-* [contact](#contact)
+* [Contact](#contact)
 
 ## Technologies
 This application was built using the following technologies and languages:
@@ -68,6 +68,11 @@ in the integrated terminal in VS Code for sourcing and seeding the database. API
 
 ## Resources
 * [Sequelize Documentation](https://sequelize.org/docs/v6/getting-started/)
+
+## Contact
+Amir Esfandiari 
+email: amir.esf1983@gmail.com
+Github: https://github.com/amiresf1983
 
 
 
