@@ -11,7 +11,7 @@ A back-end e-commerce platform that uses RESTful API calls combined with an SQL 
 * [Usage](#usage)
 * [Live Demo](#live-demo)
 * [Resources](#resources)
-* [License](#license)
+* [contact](#contact)
 
 ## Technologies
 This application was built using the following technologies and languages:
