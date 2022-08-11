@@ -62,9 +62,9 @@ You can then make API requests and update data in Insomnia or your API client of
 Responses will be printed in the API client.
 
 ## Live Demo
-### [Video demonstration of the application being used](https://drive.google.com/file/d/1i-jk-h3mE2D29BuCblCQAQpcdPWrUz_b/view)
-in the integrated terminal in VS Code for sourcing and seeding the database. API requests are tested in Insomnia.
 
+ API requests are tested in Insomnia. 
+### [Please click here for live demo](https://drive.google.com/file/d/1i-jk-h3mE2D29BuCblCQAQpcdPWrUz_b/view)
 
 ## Resources
 * [Sequelize Documentation](https://sequelize.org/docs/v6/getting-started/)
